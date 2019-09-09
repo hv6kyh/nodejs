@@ -1,5 +1,6 @@
 # Datebase Security
 ./lib/db.js
+./main.js
 
 # Logs
 logs
